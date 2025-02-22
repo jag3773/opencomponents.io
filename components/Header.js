@@ -203,6 +203,11 @@ function Header() {
               Hackathon 2023
             </a>
           </Link>
+          <Link href="/events/hackathon2024">
+            <a className="pl-8 whitespace-nowrap rounded-md text-text-500 hover:text-text-600 active:text-text-500">
+              Hackathon 2024
+            </a>
+          </Link>
           <Link href="/about">
             <a className="btn cursor-pointer">About</a>
           </Link>
